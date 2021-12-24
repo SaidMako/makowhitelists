@@ -1,12 +1,6 @@
 #youtube history
 @@||s.youtube.com^$important
 
-#edge
-@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^$important
-@@||store-images.s-microsoft.com^$important
-@@||edge.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
-
 #pinterest
 @@||api.pinterest.com^$important
 @@||pinimg.com^$important
@@ -18,8 +12,8 @@
 @@||dldir1.qq.com^$important
 
 #discord
-||discord.com/api/v*/track^$important
-||discord.com/api/v*/typing^$important
+@@||discord.com/api/v*/track^$important
+@@||discord.com/api/v*/typing^$important
 
 #twitter
 @@||analytics.twitter.com^$important
@@ -51,14 +45,6 @@
 #video player
 @@||pstatp.com^$important
 
-#pixiv
-@@||i.pximg.net^$important
-@@||s.pximg.net^$important
-@@||imp.pixiv.net^$important
-
-#app store img
-@@||mzstatic.com^$important
-
 #hcaptcha
 @@||newassets.hcaptcha.com^$important
 
@@ -67,9 +53,6 @@
 @@||go.microsoft.com^$important
 @@||wdcp.microsoft.com^$important
 @@||wdcpalt.microsoft.com^$important
-
-#mlab speed test
-@@||measurement-lab.org^$important
 
 #youtube_pfp
 @@||yt3.ggpht.com^$important
@@ -81,23 +64,12 @@
 #ph
 @@||phncdn.com^$important
 
-#dm233 img
-@@||tvax3.sinaimg.cn^$important
-
 #miui update
 @@||bigota.d.miui.com^$important
-
-#twitch
-@@||static.twitchcdn.net^$important
-@@||static-cdn.jtvnw.net^$important
-@@||usher.ttvnw.net^$important
 
 #ravencoin wallet
 @@||bitpay.com^$important
 @@||bittrex.com^$important
-
-#windows 10 must have
-@@||msftncsi.com^$important
 
 #bilibili
 @@||www.bilibili.com^$important
@@ -110,11 +82,10 @@
 @@||download.windowsupdate.com^$important
 @@||fe3cr.delivery.mp.microsoft.com^$important
 
-#bit.ly
-@@||bit.ly^$important
-
 #shorten link
 @@||yt3.piee.pw^$important
+@@||bit.ly^$important
+@@||invol.co^
 
 #own website
 @@||makolau.000webhostapp.com^$important
@@ -124,6 +95,7 @@
 
 #cn server
 @@||sinaimg.cn^$important
+@@||jingyan.baidu.com^
 
 #bahamut pic
 @@||p2.bahamut.com.tw^$important
@@ -138,5 +110,3 @@
 #tracking package
 @@||tracking.my^
 
-#invol link forward
-@@||invol.co^
