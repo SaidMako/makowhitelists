@@ -134,3 +134,6 @@
 #monero
 @@||moneroocean.stream^$important
 @@||api.moneroocean.stream^$important
+
+#tracking package
+@@||tracking.my^
