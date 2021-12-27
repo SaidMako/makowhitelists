@@ -1,111 +1,111 @@
 #youtube history
-@@||s.youtube.com^$important
+@@||s.youtube.com^
 
 #pinterest
-@@||api.pinterest.com^$important
-@@||pinimg.com^$important
+@@||api.pinterest.com^
+@@||pinimg.com^
 
 #wechat
-@@||ssl.msdk.qq.com^$important
-@@||long.open.weixin.qq.com^$important
-@@||shminorshort.weixin.qq.com^$important
-@@||dldir1.qq.com^$important
+@@||ssl.msdk.qq.com^
+@@||long.open.weixin.qq.com^
+@@||shminorshort.weixin.qq.com^
+@@||dldir1.qq.com^
 
 #discord
-@@||discord.com/api/v*/track^$important
-@@||discord.com/api/v*/typing^$important
+@@||discord.com/api/v*/track^
+@@||discord.com/api/v*/typing^
 
 #twitter
-@@||analytics.twitter.com^$important
-@@||abs.twimg.com^$important
-@@||pbs.twimg.com^$important
+@@||analytics.twitter.com^
+@@||abs.twimg.com^
+@@||pbs.twimg.com^
 
 #honeygain
-@@||dashboard.honeygain.com^$important
-@@||api.honeygain.com^$important
-@@||www.honeygain.com^$important
-@@||sentry.honeygain.com^$important
-@@||download.honeygain.com^$important
+@@||dashboard.honeygain.com^
+@@||api.honeygain.com^
+@@||www.honeygain.com^
+@@||sentry.honeygain.com^
+@@||download.honeygain.com^
 
 #ravenminer
-@@||stratum.ravenminer.com^$important
-@@||new.ravenminer.com^$important
-@@||www.ravenminer.com^$important
+@@||stratum.ravenminer.com^
+@@||new.ravenminer.com^
+@@||www.ravenminer.com^
 
 #ravenpool
-@@||stratum.ravenpool.ninja^$important
+@@||stratum.ravenpool.ninja^
 
 #facebook
-@@||graph.facebook.com^$important
-@@||star.c10r.facebook.com^$important
+@@||graph.facebook.com^
+@@||star.c10r.facebook.com^
 
 #mnbk
-@@||img.moegirl.org.cn^$important
+@@||img.moegirl.org.cn^
 
 #video player
-@@||pstatp.com^$important
+@@||pstatp.com^
 
 #hcaptcha
-@@||newassets.hcaptcha.com^$important
+@@||newassets.hcaptcha.com^
 
 #windows security update
-@@||ctldl.windowsupdate.com^$important
-@@||go.microsoft.com^$important
-@@||wdcp.microsoft.com^$important
-@@||wdcpalt.microsoft.com^$important
+@@||ctldl.windowsupdate.com^
+@@||go.microsoft.com^
+@@||wdcp.microsoft.com^
+@@||wdcpalt.microsoft.com^
 
 #youtube_pfp
-@@||yt3.ggpht.com^$important
+@@||yt3.ggpht.com^
 
 #google fonts
-@@||fonts.googleapis.com^$important
-@@||fonts.gstatic.com^$important
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
 
 #ph
-@@||phncdn.com^$important
+@@||phncdn.com^
 
 #miui update
-@@||bigota.d.miui.com^$important
+@@||bigota.d.miui.com^
 
 #ravencoin wallet
-@@||bitpay.com^$important
-@@||bittrex.com^$important
+@@||bitpay.com^
+@@||bittrex.com^
 
 #bilibili
-@@||www.bilibili.com^$important
-@@||api.bilibili.com^$important
+@@||www.bilibili.com^
+@@||api.bilibili.com^
 
 #microsoft download
-@@||download.microsoft.com^$important
-@@||download.sysinternals.com^$important
-@@||slscr.update.microsoft.com^$important
-@@||download.windowsupdate.com^$important
-@@||fe3cr.delivery.mp.microsoft.com^$important
+@@||download.microsoft.com^
+@@||download.sysinternals.com^
+@@||slscr.update.microsoft.com^
+@@||download.windowsupdate.com^
+@@||fe3cr.delivery.mp.microsoft.com^
 
 #shorten link
-@@||yt3.piee.pw^$important
-@@||bit.ly^$important
+@@||yt3.piee.pw^
+@@||bit.ly^
 @@||invol.co^
 
 #own website
-@@||makolau.000webhostapp.com^$important
+@@||makolau.000webhostapp.com^
 
 #wangzhe pfp
-@@||wx.qlogo.cn^$important
+@@||wx.qlogo.cn^
 
 #cn server
-@@||sinaimg.cn^$important
+@@||sinaimg.cn^
 @@||jingyan.n.shifen.com
 
 #bahamut pic
-@@||p2.bahamut.com.tw^$important
+@@||p2.bahamut.com.tw^
 
 #hanime
-@@||top^$important
+@@||top^
 
 #monero
-@@||moneroocean.stream^$important
-@@||api.moneroocean.stream^$important
+@@||moneroocean.stream^
+@@||api.moneroocean.stream^
 
 #tracking package
 @@||tracking.my^
