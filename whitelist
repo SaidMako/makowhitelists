@@ -137,3 +137,6 @@
 
 #whattomine
 @@||whattomine.com^
+
+#google api-blocked by goodbye ads
+@@||firebaseinstallations.googleapis.com^
