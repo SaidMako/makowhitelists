@@ -140,3 +140,6 @@
 
 #google api-blocked by goodbye ads
 @@||firebaseinstallations.googleapis.com^
+
+#microsoft edge update (I know many people hate it but I want it up to date so no need worry about security problem)
+@@||msedge.sf.dl.delivery.mp.microsoft.com
