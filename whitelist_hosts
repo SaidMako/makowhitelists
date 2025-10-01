@@ -118,8 +118,9 @@ developer.nvidia.com
 developer.download.nvidia.com
 download.nvidia.com
 
-#google api-blocked by goodbye ads
+#google api
 firebaseinstallations.googleapis.com
+gcs-us-00002.content-storage-download.googleapis.co
 
 #microsoft edge update (I know many people hate it but I want it up to date so no need worry about security problem)
 msedge.sf.dl.delivery.mp.microsoft.com
@@ -146,4 +147,4 @@ amp-api-edge.apps.apple.com
 www.chunkbase.com
 
 #tv
-abuijx.skadsdkless.appsflyersdk.com^
+abuijx.skadsdkless.appsflyersdk.com
